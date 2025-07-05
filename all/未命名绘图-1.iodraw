@@ -4,6 +4,103 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-2" value="NOE研究细节" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="143" y="902" width="308" height="438" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-3" value="机制解析&#xa;• 垂直输送 • 水平输送" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="YitjSNKTDvS3VFS0rmMs-2">
+          <mxGeometry x="48" y="43" width="229" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-4" value="个例分析&#xa;• 2022.9.4：下沉气流&#xa;• 2023.4.20：降水驱动&#xa;• 2021.8.2：无NOE对比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="YitjSNKTDvS3VFS0rmMs-2">
+          <mxGeometry x="46" y="159" width="233" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-5" value="站点差异&#xa;• 城市中心：垂直主导 • 山区：地形影响 • 南部：水平主导" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="YitjSNKTDvS3VFS0rmMs-2">
+          <mxGeometry x="54" y="310" width="217" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-6" value="广州2019-2023年大气污染特征与夜间臭氧增强机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="20" width="245" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-7" value="观测数据：公园前站&#xa;• PM₂.₅组分（OC、EC、重金属、水溶性离子）&#xa;• 常规污染物（NO₂、O₃、SO₂、CO、PM₁₀）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="167" y="136" width="260" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-8" value="公园前站点大气污染物分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="171" y="305" width="252" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-9" value="季节性与昼夜特征&#xa;• 干湿季对比 • 小时变化分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="403" width="254" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-10" value="趋势分析&#xa;• Mann‑Kendall 检验 • Sen’s 斜率分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="324" y="403" width="248" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-11" value="现象：公园前站点臭氧浓度日变化存在夜间升高现象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="171" y="519" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-12" value="观测数据：12 个站点常规污染物和气象参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="171" y="635" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-13" value="NOE 事件识别及定义&#xa;• NOE 标准定义 • 年均 80–120 次" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="183" y="769" width="229" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-14" value="结论：广州NOE事件高频发生，且与垂直混合和水平传输关系密切" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="171" y="1391" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YitjSNKTDvS3VFS0rmMs-8" target="YitjSNKTDvS3VFS0rmMs-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="147" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YitjSNKTDvS3VFS0rmMs-8" target="YitjSNKTDvS3VFS0rmMs-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="448" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YitjSNKTDvS3VFS0rmMs-6" target="YitjSNKTDvS3VFS0rmMs-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YitjSNKTDvS3VFS0rmMs-7" target="YitjSNKTDvS3VFS0rmMs-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.16;entryY=0;rounded=0;" edge="1" parent="1" source="YitjSNKTDvS3VFS0rmMs-9" target="YitjSNKTDvS3VFS0rmMs-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="147" y="494" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.84;entryY=0;rounded=0;" edge="1" parent="1" source="YitjSNKTDvS3VFS0rmMs-10" target="YitjSNKTDvS3VFS0rmMs-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="448" y="494" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YitjSNKTDvS3VFS0rmMs-11" target="YitjSNKTDvS3VFS0rmMs-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YitjSNKTDvS3VFS0rmMs-12" target="YitjSNKTDvS3VFS0rmMs-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YitjSNKTDvS3VFS0rmMs-13" target="YitjSNKTDvS3VFS0rmMs-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YitjSNKTDvS3VFS0rmMs-2" target="YitjSNKTDvS3VFS0rmMs-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
