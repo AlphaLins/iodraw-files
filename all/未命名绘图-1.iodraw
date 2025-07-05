@@ -25,7 +25,7 @@
         <mxCell id="YitjSNKTDvS3VFS0rmMs-8" value="公园前站点大气污染物分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="171" y="305" width="252" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="YitjSNKTDvS3VFS0rmMs-9" value="季节性与昼夜特征&#xa;• 干湿季对比 • 小时变化分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="YitjSNKTDvS3VFS0rmMs-9" value="季节性与昼夜特征&#xa;• 干湿季对比及小时变化分析&#xa;• Mann‑Kendall 检验 • Sen’s 斜率分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="403" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YitjSNKTDvS3VFS0rmMs-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
