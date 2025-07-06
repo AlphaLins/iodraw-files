@@ -1,0 +1,92 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="HPPf0tIetKIoTv_eZPYG">
+    <mxGraphModel dx="3496" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lZZtq2DwqayegIcJzM8p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;fontColor=default;strokeWidth=2.5;fontStyle=1;opacity=80;" parent="1" source="lZZtq2DwqayegIcJzM8p-1" target="cmSJkYyGChZvPJq0Ejnb-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZZtq2DwqayegIcJzM8p-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;公园前站点大气污染物分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=2.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;fillColor=none;dashed=1;fontStyle=1;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="370" width="610" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-1" value="                         NOE研究细节" style="whiteSpace=wrap;strokeWidth=2.5;verticalAlign=top;shadow=0;snapToPoint=0;rounded=1;container=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;opacity=80;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="640" width="750" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-5" value="广州2019-2023年大气污染特征与夜间臭氧增强机制" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;opacity=80;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="137" y="70" width="320" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="lZZtq2DwqayegIcJzM8p-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;strokeWidth=2.5;opacity=80;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-6" target="cmSJkYyGChZvPJq0Ejnb-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZZtq2DwqayegIcJzM8p-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;fontColor=default;fontStyle=1;strokeWidth=2.5;opacity=80;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-6" target="cmSJkYyGChZvPJq0Ejnb-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-6" value="观测数据：公园前站&#xa;• PM₂.₅组分（OC、EC、重金属、水溶性离子）&#xa;• 常规污染物（NO₂、O₃、SO₂、CO、PM₁₀）" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fontStyle=1;opacity=80;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="166.5" y="186" width="260" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-8" value="季节性与昼夜特征&#xa;• 干湿季对比 • 小时变化分析&#xa;趋势分析&#xa;• Mann‑Kendall 检验 • Sen’s 斜率分析" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;opacity=80;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="20" y="403" width="254" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-9" value="PMF源解析&#xa;•污染源识别•污染源贡献变化对比" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;opacity=80;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="324" y="403" width="248" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-10" value="现象：公园前站点臭氧浓度日变化存在夜间升高现象&#xa;颗粒物浓度NOE和NNOE期间存在差异" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1;opacity=80;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="171.5" y="540" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-11" value="观测数据：12 个站点常规污染物和气象参数" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fontStyle=1;opacity=80;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="171" y="660" width="252" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="lZZtq2DwqayegIcJzM8p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=13;fontColor=default;entryX=0.523;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2.5;fontStyle=1;opacity=80;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-12" target="cmSJkYyGChZvPJq0Ejnb-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lZZtq2DwqayegIcJzM8p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;fontColor=default;strokeWidth=2.5;fontStyle=1;opacity=80;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-12" target="cmSJkYyGChZvPJq0Ejnb-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-12" value="NOE 事件识别及定义&#xa;• NOE 标准定义 • 年均 80–120 次" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1;opacity=80;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="182.5" y="730" width="229" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-13" value="结论：广州NOE事件高频发生，且与垂直混合和水平传输关系密切" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;opacity=80;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="169" y="1070" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2.5;shadow=0;snapToPoint=0;fontStyle=1;opacity=80;fontSize=13;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-5" target="cmSJkYyGChZvPJq0Ejnb-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2.5;shadow=0;snapToPoint=0;fontStyle=1;opacity=80;fontSize=13;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-10" target="cmSJkYyGChZvPJq0Ejnb-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2.5;shadow=0;snapToPoint=0;fontStyle=1;opacity=80;fontSize=13;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-11" target="cmSJkYyGChZvPJq0Ejnb-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-22" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;strokeWidth=2.5;shadow=0;snapToPoint=0;entryX=0.483;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontStyle=1;opacity=80;fontSize=13;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-12" target="cmSJkYyGChZvPJq0Ejnb-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2.5;shadow=0;snapToPoint=0;fontStyle=1;exitDx=0;exitDy=0;opacity=80;fontSize=13;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-1" target="cmSJkYyGChZvPJq0Ejnb-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="295" y="1030" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-4" value="站点差异&#xa;• 城市中心：垂直主导 • 山区：地形影响 • 南部：水平主导" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;opacity=80;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="436.5" y="880" width="217" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-2" value="机制解析&#xa;• 垂直输送 • 水平输送" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;opacity=80;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="-63.5" y="880" width="229" height="103.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-3" value="个例分析&#xa;• 2022.9.4：下沉气流&#xa;• 2023.4.20：降水驱动&#xa;• 2021.8.2：无NOE对比" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;opacity=80;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="185.5" y="882.5" width="233" height="101" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
