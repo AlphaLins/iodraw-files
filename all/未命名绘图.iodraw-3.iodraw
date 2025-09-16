@@ -28,12 +28,6 @@
         <mxCell id="cmSJkYyGChZvPJq0Ejnb-11" value="观测数据：12 个站点常规污染物（CO、O₃、NO₂）&#xa;ERA5数据集：风的U/V分量、温度、湿度、摩擦速度、臭氧混合比、边界层高度、气压" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fontStyle=1;opacity=80;fontSize=16;fillColor=#E6D0DE;strokeColor=#CDA2BE;" parent="1" vertex="1">
           <mxGeometry x="917.5" y="170" width="252" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="lZZtq2DwqayegIcJzM8p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;entryX=0.523;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2.5;fontStyle=1;opacity=80;" parent="1" target="cmSJkYyGChZvPJq0Ejnb-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1132" y="570" as="targetPoint" />
-            <mxPoint x="1049" y="534" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lZZtq2DwqayegIcJzM8p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeWidth=2.5;fontStyle=1;opacity=80;" parent="1" target="cmSJkYyGChZvPJq0Ejnb-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1049" y="534" as="sourcePoint" />
