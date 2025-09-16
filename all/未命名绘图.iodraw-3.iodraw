@@ -25,7 +25,7 @@
         <mxCell id="cmSJkYyGChZvPJq0Ejnb-9" value="PMF源解析&#xa;•污染源识别•污染源贡献变化对比&#xa;•CBPF分析" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;opacity=80;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="324" y="380" width="248" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cmSJkYyGChZvPJq0Ejnb-11" value="观测数据：12 个站点常规污染物（CO、O₃、）和气象参数" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fontStyle=1;opacity=80;fontSize=16;fillColor=#E6D0DE;strokeColor=#CDA2BE;" parent="1" vertex="1">
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-11" value="观测数据：12 个站点常规污染物（CO、O₃、NO₂）&#xa;ERA5数据集：风的U/V分量、温度、湿度、摩擦速度、臭氧混合比、边界层高度、气压" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fontStyle=1;opacity=80;fontSize=16;fillColor=#E6D0DE;strokeColor=#CDA2BE;" parent="1" vertex="1">
           <mxGeometry x="921" y="190" width="252" height="39" as="geometry" />
         </mxCell>
         <mxCell id="lZZtq2DwqayegIcJzM8p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;entryX=0.523;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2.5;fontStyle=1;opacity=80;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-12" target="cmSJkYyGChZvPJq0Ejnb-4" edge="1">
