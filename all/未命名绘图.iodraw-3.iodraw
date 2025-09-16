@@ -70,6 +70,12 @@
         <mxCell id="cmSJkYyGChZvPJq0Ejnb-3" value="个例分析&#xa;• 2022.9.4：下沉气流&#xa;• 2023.4.20：降水驱动&#xa;• 2021.8.2：无NOE对比" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;opacity=80;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="935.5" y="412.5" width="233" height="101" as="geometry" />
         </mxCell>
+        <mxCell id="yZuxta8kx7ZMLRCs-u50-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;strokeWidth=2.5;fontStyle=1;opacity=80;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1057" y="354" as="sourcePoint" />
+            <mxPoint x="811" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
