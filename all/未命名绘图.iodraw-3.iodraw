@@ -11,7 +11,7 @@
           <mxGeometry x="670" y="170" width="750" height="370" as="geometry" />
         </mxCell>
         <mxCell id="cmSJkYyGChZvPJq0Ejnb-5" value="广州2019-2023年大气污染特征与夜间臭氧增强机制" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;opacity=80;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="450" y="20" width="320" height="66" as="geometry" />
+          <mxGeometry x="440" y="20" width="320" height="66" as="geometry" />
         </mxCell>
         <mxCell id="lZZtq2DwqayegIcJzM8p-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=1;strokeWidth=2.5;opacity=80;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-6" target="cmSJkYyGChZvPJq0Ejnb-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
