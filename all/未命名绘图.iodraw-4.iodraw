@@ -25,11 +25,9 @@
         <mxCell id="cmSJkYyGChZvPJq0Ejnb-9" value="PMF源解析&#xa;•污染源识别•污染源贡献变化对比&#xa;污染风玫瑰分析&#xa;•污染源来向•污染源干湿季差异" style="whiteSpace=wrap;strokeWidth=2.5;shadow=0;snapToPoint=0;rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;opacity=80;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="24" y="380" width="248" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cmSJkYyGChZvPJq0Ejnb-16" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2.5;shadow=0;snapToPoint=0;fontStyle=1;opacity=80;fontSize=16;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-5" target="cmSJkYyGChZvPJq0Ejnb-6" edge="1">
+        <mxCell id="cmSJkYyGChZvPJq0Ejnb-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2.5;shadow=0;snapToPoint=0;fontStyle=1;opacity=80;fontSize=16;" parent="1" source="cmSJkYyGChZvPJq0Ejnb-5" target="cmSJkYyGChZvPJq0Ejnb-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint y="140" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o4w3jGqQuGB09EeK54bw-2" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;夜间臭氧增强现象机制研究&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;strokeWidth=2.5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;dashed=1;fontStyle=1;opacity=80;" vertex="1" parent="1">
